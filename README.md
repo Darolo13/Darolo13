@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-stack web development**
 
-- 👨‍💻 All of my projects are available at [portfolio :)](https://darolo13.github.io/react-portfolio-darolo/)
+- 👨‍💻 All of my projects are available on my [portfolio :)](https://darolo13.github.io/react-portfolio-darolo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
