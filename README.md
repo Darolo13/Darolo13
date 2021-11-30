@@ -46,7 +46,7 @@
   </a> 
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darolo13&" alt="darolo13" width="700"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darolo13&" alt="darolo13" width="700"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darolo13&show_icons=true&locale=en" alt="darolo13" width="700" /></p>
 
