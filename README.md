@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-stack web development**
 
-- 👨‍💻 All of my projects are available at [https://darolo13.github.io/](https://darolo13.github.io/)
+- 👨‍💻 All of my projects are available at [https://darolo.vercel.app/](here!)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
