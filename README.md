@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darolo13&label=Profile%20views&color=0e75b6&style=flat" alt="darolo13" /> </p>
 
-- 🌱 **Full Stack Developer**
-
 - 👨‍💻 All of my projects are available [Here!](https://darolo.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
