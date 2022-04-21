@@ -17,6 +17,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darolo13&theme=tokyonight&hide_border=true&" alt="darolo13" width="700"/></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darolo13&show_icons=true&locale=en" alt="darolo13" width="700" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darolo13&theme=tokyonight&show_icons=true&locale=en&hide_border=true" alt="darolo13" width="700" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darolo13&show_icons=true&locale=en&layout=compact" alt="darolo13" width="700" /></p>
