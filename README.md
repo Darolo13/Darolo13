@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm David Romero</h1>
-<h3 align="center">A passionate full-stack developer.</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=BA6AFF&background=FFDBFC00&center=true&vCenter=true&lines=A+passionate+Full+Stack+Developer" data-src="https://git.io/typing-svg" />
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=darolo13&label=Profile%20views&color=0e75b6&style=flat" alt="darolo13" /> </p>
 
